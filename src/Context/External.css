@@ -1,0 +1,11 @@
+.header{
+    background-color:"Red";
+    color:"purple";
+    font-size:50;
+    font-family:"cursive"
+}
+.footer{
+    background-color:"black";
+    color:"red";
+    font-size:100;
+}
